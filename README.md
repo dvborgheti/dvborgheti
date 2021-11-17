@@ -1,6 +1,6 @@
 ## Oi, me chamo Diego Borgheti, estudante de Desenvolvimento Web!
 
-- 🔭 Trabalho atualmente como Assistente de TI
+- 🔭 Trabalho como Assistente de TI
 - 🚀 Estudante Discover na Rocketseat
 - 👾 Estudante Front-End na Alura
 
@@ -10,7 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvborgheti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ## Estudando atualmente 
+  ## Estudando
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Borg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
