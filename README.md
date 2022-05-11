@@ -1,8 +1,8 @@
 ## Oi, me chamo Diego Borgheti, estudante de Desenvolvimento Web!
 
-- 🔭 Trabalho como Assistente de TI
-- 🚀 Estudante Discover na Rocketseat
-- 👾 Estudante Front-End na Alura
+- 🔭 Trabalho como Analista de Sistemas
+- 🚀 Estudante Ignite na Rocketseat
+- 👾 Estudante Alura
 
 <div align="center">
   <a href="https://github.com/dvborgheti">
