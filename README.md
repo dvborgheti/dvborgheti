@@ -1,4 +1,5 @@
-## Oi, me chamo Diego Borgheti, estudante de Desenvolvimento Web!
+## Diego Borgheti 
+
 
 - 🔭 Trabalho como Analista de Sistemas
 - 🚀 Estudante Ignite na Rocketseat
