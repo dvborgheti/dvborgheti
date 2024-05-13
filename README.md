@@ -8,12 +8,10 @@
 </div>
 
   
-  ## Interesse de estudo
+  ## 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Borg-Ts" height="30" width="40" src="https://imgur.com/1rTDpmW.png">
-  <img align="center" alt="Borg-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"> 
-  <img align="center" alt="Borg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Borg-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">        
+  <img align="center" alt="Borg-Java" height="30" width="40" src="https://imgur.com/a/tsE6tp1.png"> 
+  <img align="center" alt="Borg-Kotlin" height="30" width="40" src="https://imgur.com/a/8c4YbzG.png">       
         
   </div>
   
