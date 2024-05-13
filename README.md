@@ -10,8 +10,8 @@
   
   ## 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Borg-Java" height="30" width="40" src="https://imgur.com/a/tsE6tp1.png"> 
-  <img align="center" alt="Borg-Kotlin" height="30" width="40" src="https://imgur.com/a/8c4YbzG.png">       
+  <img align="center" alt="Borg-Java" height="30" width="40" src="https://imgur.com/4vNmjUu.png"> 
+  <img align="center" alt="Borg-Kotlin" height="30" width="40" src="https://imgur.com/yH0VJvh.png">       
         
   </div>
   
