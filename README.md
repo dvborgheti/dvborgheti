@@ -1,21 +1,11 @@
 ## Diego Borgheti 
 
+I have experience in IT since 2017, having started my career as a support technician at an internet company. I was then promoted to the systems department, where I took on responsibility for system migrations and provided comprehensive IT support, acting as a product owner and coordinating the development of new features.
+Currently, I am an infrastructure analyst at a television channel, where I coordinate the team and oversee project execution. I also manage transmissions and operations when needed and am responsible for uploading and managing all media content on the channel’s streaming platform.
 
-<div align="center">
-  <a href="https://github.com/dvborgheti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dvborgheti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvborgheti&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+At present, I am focused on improving my English and developing my data analysis skills.
 
-  
-  ## 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Borg-Java" height="30" width="40" src="https://imgur.com/4vNmjUu.png"> 
-  <img align="center" alt="Borg-Kotlin" height="30" width="40" src="https://imgur.com/yH0VJvh.png">       
-        
-  </div>
-  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
   
   ## 
   
