@@ -1,4 +1,4 @@
-## Diego Borgheti 
+## Hi, I'm Diego Borgheti 
 
 I have experience in IT since 2017, having started my career as a support technician at an internet company. I was then promoted to the systems department, where I took on responsibility for system migrations and provided comprehensive IT support, acting as a product owner and coordinating the development of new features.
 Currently, I am an infrastructure analyst at a television channel, where I coordinate the team and oversee project execution. I also manage transmissions and operations when needed and am responsible for uploading and managing all media content on the channel’s streaming platform.
